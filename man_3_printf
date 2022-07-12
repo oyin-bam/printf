@@ -1,5 +1,5 @@
 .TH man 3 "12 July, 2022" "0.10" "_printf man page"
-.SH AME
+.SH NAME
 .B _printf
 - Formatted output conversion.
 .SH SYNOPSIS
